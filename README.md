@@ -58,6 +58,4 @@ The optimized predictive models successfully:
 ## 📌 Use Cases
 
 - Real estate market analysis  
-- Predictive modeling practice  
-- Academic machine learning projects  
-- Data analytics portfolio showcase
+- Predictive modeling practice
